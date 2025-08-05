@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
 
-<!--
-**DoodlePirate/DoodlePirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: the Full Stack Developer Certification through freeCodeCamp and an Online Degree through Finger Lakes Community College in Smart Systems Technology.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: Tech stuff - auditing CSS, Electronic Theory, and Survey of Function I. Non-tech stuff - practicing my spinning long draw for a sock yarn project and attempting to recreate a medieval spindle and distaff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on: Anything that helps me gain skills.
+
+- 💬 Ask me about: yarn, spinning wheels, fiber arts, gardening, my 3 cats, my college sophomore at UB, or what it's like revisiting skills and learning new ones after 20 years.
+
+- 😄 Pronouns: she/her
+
+- ⚡ Fun fact: Decided that turning 40 is the new 20 and I'm learning a whole bunch of new shit. *Because **I CAN**!*
